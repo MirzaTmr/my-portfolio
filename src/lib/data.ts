@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Rishikesh S",
+  name: "Mirza Taimur Ali",
   location: "Coimbatore, India",
   email: "rkesh2003@gmail.com",
   github: "https://github.com/rishikesh2003",
